@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "*.mas": "html",
+        "autohandler": "perl",
+        "*.mp": "perl",
+        "*.mi": "mason",
+        "*.mc": "mason"
+      }    
+}
